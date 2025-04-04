@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [3636-check-balanced-string](https://github.com/Nizaam81/LeedCode/tree/master/3636-check-balanced-string) |
 ## Math
 |  |
 | ------- |
