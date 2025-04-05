@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3636-check-balanced-string](https://github.com/Nizaam81/LeedCode/tree/master/3636-check-balanced-string) |
 ## Math
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
