@@ -10,6 +10,10 @@ var isThree = function(n) {
         }
   
     }
-    return count===3
+    if(count===3){
+        return true
+    }else{
+        return false
+    }
     
 };
