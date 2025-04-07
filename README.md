@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Nizaam81/LeedCode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/Nizaam81/LeedCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nizaam81/LeedCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
@@ -42,8 +43,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Nizaam81/LeedCode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/Nizaam81/LeedCode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Nizaam81/LeedCode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/Nizaam81/LeedCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
