@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/Nizaam81/LeedCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Nizaam81/LeedCode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
