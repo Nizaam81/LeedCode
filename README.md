@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nizaam81/LeedCode/tree/master/0009-palindrome-number) |
 | [2083-three-divisors](https://github.com/Nizaam81/LeedCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Nizaam81/LeedCode/tree/master/2507-number-of-common-factors) |
