@@ -10,7 +10,7 @@ var countEven = function(num) {
 
        
         while (n > 0) {
-            sum += n % 10;
+            sum += n % 2;
             n = Math.floor(n / 10);
         }
 
