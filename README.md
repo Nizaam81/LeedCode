@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-number-of-common-factors](https://github.com/Nizaam81/LeedCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nizaam81/LeedCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nizaam81/LeedCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3371-harshad-number](https://github.com/Nizaam81/LeedCode/tree/master/3371-harshad-number) |
 ## Hash Table
 |  |
 | ------- |
