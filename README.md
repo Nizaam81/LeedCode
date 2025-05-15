@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nizaam81/LeedCode/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/Nizaam81/LeedCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Nizaam81/LeedCode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nizaam81/LeedCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Nizaam81/LeedCode/tree/master/0367-valid-perfect-square) |
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
