@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Nizaam81/LeedCode/tree/master/0001-two-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Nizaam81/LeedCode/tree/master/1319-unique-number-of-occurrences) |
+| [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nizaam81/LeedCode/tree/master/2181-smallest-index-with-equal-value) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/Nizaam81/LeedCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Nizaam81/LeedCode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
 | [3019-furthest-point-from-origin](https://github.com/Nizaam81/LeedCode/tree/master/3019-furthest-point-from-origin) |
