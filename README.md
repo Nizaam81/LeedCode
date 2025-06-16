@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nizaam81/LeedCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nizaam81/LeedCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -103,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/Nizaam81/LeedCode/tree/master/2486-most-frequent-even-element) |
 | [3019-furthest-point-from-origin](https://github.com/Nizaam81/LeedCode/tree/master/3019-furthest-point-from-origin) |
+## Matrix
+|  |
+| ------- |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 <!---LeetCode Topics End-->
