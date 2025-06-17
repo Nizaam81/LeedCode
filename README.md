@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nizaam81/LeedCode/tree/master/0001-two-sum) |
+| [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Nizaam81/LeedCode/tree/master/1319-unique-number-of-occurrences) |
 | [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Nizaam81/LeedCode/tree/master/0657-robot-return-to-origin) |
+| [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Counting
@@ -107,5 +109,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 <!---LeetCode Topics End-->
