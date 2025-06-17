@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nizaam81/LeedCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Nizaam81/LeedCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/Nizaam81/LeedCode/tree/master/3371-harshad-number) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
