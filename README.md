@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Nizaam81/LeedCode/tree/master/1319-unique-number-of-occurrences) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nizaam81/LeedCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -93,10 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
