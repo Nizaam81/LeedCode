@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Nizaam81/LeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
 | [3019-furthest-point-from-origin](https://github.com/Nizaam81/LeedCode/tree/master/3019-furthest-point-from-origin) |
 | [3636-check-balanced-string](https://github.com/Nizaam81/LeedCode/tree/master/3636-check-balanced-string) |
