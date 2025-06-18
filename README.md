@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Nizaam81/LeedCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nizaam81/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Nizaam81/LeedCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Nizaam81/LeedCode/tree/master/0742-to-lower-case) |
