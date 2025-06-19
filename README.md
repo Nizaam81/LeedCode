@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Nizaam81/LeedCode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nizaam81/LeedCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Nizaam81/LeedCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/Nizaam81/LeedCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Nizaam81/LeedCode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nizaam81/LeedCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Nizaam81/LeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
