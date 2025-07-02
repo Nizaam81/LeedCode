@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nizaam81/LeedCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Nizaam81/LeedCode/tree/master/1319-unique-number-of-occurrences) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nizaam81/LeedCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nizaam81/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
