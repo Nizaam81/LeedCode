@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Nizaam81/LeedCode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nizaam81/LeedCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1806-count-of-matches-in-tournament](https://github.com/Nizaam81/LeedCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/Nizaam81/LeedCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Nizaam81/LeedCode/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
+| [1806-count-of-matches-in-tournament](https://github.com/Nizaam81/LeedCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Counting
