@@ -141,4 +141,20 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nizaam81/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
