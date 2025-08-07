@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nizaam81/LeedCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Nizaam81/LeedCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Nizaam81/LeedCode/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
@@ -160,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nizaam81/LeedCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
