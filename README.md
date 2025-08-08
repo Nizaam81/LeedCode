@@ -148,10 +148,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -160,9 +162,18 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nizaam81/LeedCode/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
