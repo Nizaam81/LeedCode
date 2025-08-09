@@ -176,4 +176,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Nizaam81/LeedCode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Nizaam81/LeedCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
