@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Nizaam81/LeedCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nizaam81/LeedCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Nizaam81/LeedCode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Nizaam81/LeedCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Nizaam81/LeedCode/tree/master/0507-perfect-number) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nizaam81/LeedCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nizaam81/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
@@ -184,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Nizaam81/LeedCode/tree/master/0190-reverse-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nizaam81/LeedCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
