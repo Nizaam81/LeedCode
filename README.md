@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nizaam81/LeedCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Nizaam81/LeedCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nizaam81/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nizaam81/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Nizaam81/LeedCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Nizaam81/LeedCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nizaam81/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
