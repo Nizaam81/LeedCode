@@ -157,11 +157,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Nizaam81/LeedCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Nizaam81/LeedCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Nizaam81/LeedCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nizaam81/LeedCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nizaam81/LeedCode/tree/master/0975-range-sum-of-bst) |
 ## Recursion
@@ -201,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nizaam81/LeedCode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Nizaam81/LeedCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
