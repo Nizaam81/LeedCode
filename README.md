@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nizaam81/LeedCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Nizaam81/LeedCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Nizaam81/LeedCode/tree/master/1944-truncate-sentence) |
+| [2058-concatenation-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nizaam81/LeedCode/tree/master/2181-smallest-index-with-equal-value) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Nizaam81/LeedCode/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Nizaam81/LeedCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2058-concatenation-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Counting
