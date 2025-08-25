@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Nizaam81/LeedCode/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nizaam81/LeedCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Nizaam81/LeedCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nizaam81/LeedCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -121,11 +122,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Nizaam81/LeedCode/tree/master/0242-valid-anagram) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Nizaam81/LeedCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Nizaam81/LeedCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1806-count-of-matches-in-tournament](https://github.com/Nizaam81/LeedCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Nizaam81/LeedCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
@@ -147,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Nizaam81/LeedCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Linked List
 |  |
