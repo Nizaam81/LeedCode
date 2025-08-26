@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nizaam81/LeedCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Nizaam81/LeedCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/Nizaam81/LeedCode/tree/master/3371-harshad-number) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nizaam81/LeedCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
