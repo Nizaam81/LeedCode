@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Nizaam81/LeedCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Nizaam81/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nizaam81/LeedCode/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/Nizaam81/LeedCode/tree/master/0838-design-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Nizaam81/LeedCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nizaam81/LeedCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nizaam81/LeedCode/tree/master/0226-invert-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Nizaam81/LeedCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
