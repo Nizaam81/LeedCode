@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nizaam81/LeedCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Nizaam81/LeedCode/tree/master/1319-unique-number-of-occurrences) |
+| [1470-shuffle-the-array](https://github.com/Nizaam81/LeedCode/tree/master/1470-shuffle-the-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nizaam81/LeedCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Nizaam81/LeedCode/tree/master/1848-sum-of-unique-elements) |
