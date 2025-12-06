@@ -3,18 +3,25 @@
  * @return {number}
  */
 var balancedStringSplit = function(s) {
+    
+    let balanced =0
+    let count =0
 
- let balance =0
- let count =0
- for(let ch of s){
-    if(ch==='R'){
-        balance++
-    }else if(ch==='L'){
-        balance--
+   for(let ch of s ){
+    if(ch==="L"){
+        balanced++
+    }else{
+
+        balanced--
     }
-    if(balance==0){
-        count++
-    }
- }
-return count
+    if(balanced==0){
+    count++
+   }
+   }
+   
+
+        
+     
+    return count 
+
 };
