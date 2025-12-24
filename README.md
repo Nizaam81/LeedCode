@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Nizaam81/LeedCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Nizaam81/LeedCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/Nizaam81/LeedCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nizaam81/LeedCode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nizaam81/LeedCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nizaam81/LeedCode/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Nizaam81/LeedCode/tree/master/1122-relative-sort-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nizaam81/LeedCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Prefix Sum
 |  |
@@ -262,5 +265,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Nizaam81/LeedCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
