@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
+| [2942-find-words-containing-character](https://github.com/Nizaam81/LeedCode/tree/master/2942-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nizaam81/LeedCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Nizaam81/LeedCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Nizaam81/LeedCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
+| [2942-find-words-containing-character](https://github.com/Nizaam81/LeedCode/tree/master/2942-find-words-containing-character) |
 | [3019-furthest-point-from-origin](https://github.com/Nizaam81/LeedCode/tree/master/3019-furthest-point-from-origin) |
 | [3636-check-balanced-string](https://github.com/Nizaam81/LeedCode/tree/master/3636-check-balanced-string) |
 ## Math
