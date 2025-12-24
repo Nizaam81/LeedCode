@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Nizaam81/LeedCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nizaam81/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Nizaam81/LeedCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Nizaam81/LeedCode/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Nizaam81/LeedCode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/Nizaam81/LeedCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Nizaam81/LeedCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Nizaam81/LeedCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nizaam81/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nizaam81/LeedCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/Nizaam81/LeedCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/Nizaam81/LeedCode/tree/master/2083-three-divisors) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Nizaam81/LeedCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nizaam81/LeedCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nizaam81/LeedCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/Nizaam81/LeedCode/tree/master/1122-relative-sort-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Nizaam81/LeedCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
