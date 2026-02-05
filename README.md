@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Nizaam81/LeedCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2881-split-strings-by-separator](https://github.com/Nizaam81/LeedCode/tree/master/2881-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/Nizaam81/LeedCode/tree/master/2942-find-words-containing-character) |
+| [3028-ant-on-the-boundary](https://github.com/Nizaam81/LeedCode/tree/master/3028-ant-on-the-boundary) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nizaam81/LeedCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Nizaam81/LeedCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Nizaam81/LeedCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3028-ant-on-the-boundary](https://github.com/Nizaam81/LeedCode/tree/master/3028-ant-on-the-boundary) |
 | [3226-minimum-number-game](https://github.com/Nizaam81/LeedCode/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [3028-ant-on-the-boundary](https://github.com/Nizaam81/LeedCode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nizaam81/LeedCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting Sort
 |  |
