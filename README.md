@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nizaam81/LeedCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nizaam81/LeedCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Nizaam81/LeedCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nizaam81/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nizaam81/LeedCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/Nizaam81/LeedCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Nizaam81/LeedCode/tree/master/0792-binary-search) |
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nizaam81/LeedCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Nizaam81/LeedCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nizaam81/LeedCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
