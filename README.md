@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Nizaam81/LeedCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nizaam81/LeedCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nizaam81/LeedCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Nizaam81/LeedCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nizaam81/LeedCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Nizaam81/LeedCode/tree/master/0066-plus-one) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nizaam81/LeedCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nizaam81/LeedCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Nizaam81/LeedCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nizaam81/LeedCode/tree/master/0242-valid-anagram) |
@@ -283,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Nizaam81/LeedCode/tree/master/1122-relative-sort-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nizaam81/LeedCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
