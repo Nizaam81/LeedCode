@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Nizaam81/LeedCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nizaam81/LeedCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Nizaam81/LeedCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nizaam81/LeedCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nizaam81/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nizaam81/LeedCode/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nizaam81/LeedCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Nizaam81/LeedCode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Nizaam81/LeedCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Nizaam81/LeedCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Nizaam81/LeedCode/tree/master/0792-binary-search) |
