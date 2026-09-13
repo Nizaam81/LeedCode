@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Nizaam81/LeedCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Nizaam81/LeedCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nizaam81/LeedCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nizaam81/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nizaam81/LeedCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Nizaam81/LeedCode/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nizaam81/LeedCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nizaam81/LeedCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nizaam81/LeedCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nizaam81/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nizaam81/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nizaam81/LeedCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Nizaam81/LeedCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nizaam81/LeedCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
