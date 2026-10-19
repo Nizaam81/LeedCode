@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nizaam81/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nizaam81/LeedCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nizaam81/LeedCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Nizaam81/LeedCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nizaam81/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Nizaam81/LeedCode/tree/master/0561-array-partition) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Nizaam81/LeedCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nizaam81/LeedCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nizaam81/LeedCode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nizaam81/LeedCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nizaam81/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Nizaam81/LeedCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2634-minimum-common-value](https://github.com/Nizaam81/LeedCode/tree/master/2634-minimum-common-value) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nizaam81/LeedCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Nizaam81/LeedCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nizaam81/LeedCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Nizaam81/LeedCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Nizaam81/LeedCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Nizaam81/LeedCode/tree/master/0792-binary-search) |
